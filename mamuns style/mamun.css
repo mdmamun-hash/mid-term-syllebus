@@ -1,6 +1,6 @@
 .header{
-  height: 400px;
-  width: 500px;
+  height: 500px;
+  width: 600px;
   background-image: url(../cat.webp);
   font-size: 50px;
   border: 20px solid skyblue;
@@ -13,9 +13,9 @@
   border: 20px solid plum;
   border-radius: 25px;
   box-shadow: 15px 25px 35px black;
-  height: 350px;
-  width: 450px;
-  background-image: url(../go\ away.webp);
+  height: 1800px;
+  width: 700px;
+  background-image: url(../girl.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-color: skyblue;
